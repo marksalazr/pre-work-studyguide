@@ -3,6 +3,8 @@
 ## Description
 
 This Prework Study Guide was created for myself who is going through the Prework. It contains notes on HTML, CSS, Git, and JavaScript.
+Ive learned a lot but i know that this is still the fundamentals of basic coding!
+My goal is to push through the challenges no matter how difficult it may appear.
 
 ## Installation
 
